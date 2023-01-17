@@ -5,6 +5,7 @@
     font-size: 20px;
     background: #f4f4f4;
     margin: 10px;   
+    padding: 10px 5px;
 }
 
 .schduler-header {
@@ -19,6 +20,10 @@
 .date-header {
     width: 100%;
     position: relative;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 
@@ -30,7 +35,6 @@
     border: transparent;
     border-radius: 5px;
     padding: 5px;
-    margin: 10px 5px;
     background: red;
     color: white;
     cursor: pointer;

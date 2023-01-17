@@ -15,11 +15,7 @@ const Match = ({ match, onDelete }) => {
                 >
                     Remove
                 </button>                  
-            </div>
-            
-
-            
-            
+            </div>      
         </div>
     )
 }
