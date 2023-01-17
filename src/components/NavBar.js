@@ -1,6 +1,6 @@
 import React from 'react'
 import './NavBar.css'
-import { Link } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 
 const Nav = () => {
 
@@ -10,30 +10,30 @@ const Nav = () => {
             <hr />
             <ul className='menu'>
 
-                <Link to='/' className={({ isActive }) => 
+                <NavLink to='/' className={({ isActive }) => 
                 `link-style ${isActive ? 'link-active' : ''}`} >
                     <li>Home</li>
-                </Link>
+                </NavLink>
                 
-                <Link to='/players' className={({ isActive }) => 
+                <NavLink to='/players' className={({ isActive }) => 
                 `link-style ${isActive ? 'link-active' : ''}`} >
                     <li>Players</li>                
-                </Link>
+                </NavLink>
 
-                <Link to='/matches' className={({ isActive }) => 
+                <NavLink to='/matches' className={({ isActive }) => 
                 `link-style ${isActive ? 'link-active' : ''}`} >
                     <li>Matches</li>                
-                </Link>
+                </NavLink>
 
-                <Link to='/honours' className={({ isActive }) => 
+                <NavLink to='/honours' className={({ isActive }) => 
                 `link-style ${isActive ? 'link-active' : ''}`} >
                     <li>Honours</li>                
-                </Link>
+                </NavLink>
 
-                <Link to='/about' className={({ isActive }) => 
+                <NavLink to='/about' className={({ isActive }) => 
                 `link-style ${isActive ? 'link-active' : ''}`} >
                     <li>About</li>                
-                </Link>
+                </NavLink>
             </ul>
         </div>
     )
