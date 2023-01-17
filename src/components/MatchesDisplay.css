@@ -1,11 +1,10 @@
 .match {
-    min-width: 500px;
+    min-width: 40%;
     font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     text-align: center;
     font-size: 20px;
     background: #f4f4f4;
-    margin: 5px;
-    padding: 10px 20px;
+    margin: 10px;   
 }
 
 .schduler-header {
@@ -13,11 +12,25 @@
     font-size: 2.5em;
 }
 
+.date-container {
+    position: relative;
+}
+
+.date-header {
+    width: 100%;
+    position: relative;
+}
+
+
 .remove-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: translate(0, -50%);
     border: transparent;
     border-radius: 5px;
-    float: right;
     padding: 5px;
+    margin: 10px 5px;
     background: red;
     color: white;
     cursor: pointer;

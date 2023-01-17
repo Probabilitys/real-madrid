@@ -7,13 +7,19 @@ const Match = ({ match, onDelete }) => {
     return (
         <div className='match'>
             <h3>{match.home} vs {match.away}</h3> 
-            <button 
-                className='remove-btn'
-                onClick={() =>{onDelete(match.id)}}
-            >
-                Remove
-            </button>
-            <h4>{match.date}</h4>
+            <div className='date-container'>
+                <h4 className='date-header'>{match.date}</h4>
+                <button 
+                    className='remove-btn'
+                    onClick={() =>{onDelete(match.id)}}
+                >
+                    Remove
+                </button>                  
+            </div>
+            
+
+            
+            
         </div>
     )
 }
