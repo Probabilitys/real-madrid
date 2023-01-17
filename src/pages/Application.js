@@ -13,12 +13,12 @@ import Matches from './Matches'
 const Application = () => {
 
     return (
-        <Router basename='/real-madrid'>
+        <Router basename='/'>
             <Header />
             <NavBar />
             <div className='container'>
                 <Routes>
-                    <Route path="/real-madrid" exact element={<Home />} />
+                    <Route path="/" exact element={<Home />} />
                     <Route path="/honours" exact element={<Honours />} />
                     <Route path="/matches" exact element={<Matches />}/>
                     <Route path="/about" exact element={<About />} />
