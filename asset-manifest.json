@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/real-madrid/static/css/main.08a7ea29.css",
-    "main.js": "/real-madrid/static/js/main.fd97b736.js",
+    "main.js": "/real-madrid/static/js/main.e4cfb5a7.js",
     "static/media/supercopa.png": "/real-madrid/static/media/supercopa.d101cda245fae581dcdb.png",
     "static/media/uefa_super.png": "/real-madrid/static/media/uefa_super.b01554231ba3a2ce9ae8.png",
     "static/media/uefa.png": "/real-madrid/static/media/uefa.e5dae5d8bdbdd85405cf.png",
@@ -18,10 +18,10 @@
     "static/media/club_of_the_century.JPG": "/real-madrid/static/media/club_of_the_century.fcdae20f186f332487a0.JPG",
     "index.html": "/real-madrid/index.html",
     "main.08a7ea29.css.map": "/real-madrid/static/css/main.08a7ea29.css.map",
-    "main.fd97b736.js.map": "/real-madrid/static/js/main.fd97b736.js.map"
+    "main.e4cfb5a7.js.map": "/real-madrid/static/js/main.e4cfb5a7.js.map"
   },
   "entrypoints": [
     "static/css/main.08a7ea29.css",
-    "static/js/main.fd97b736.js"
+    "static/js/main.e4cfb5a7.js"
   ]
 }
