@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/real-madrid/static/css/main.08a7ea29.css",
+    "main.js": "/real-madrid/static/js/main.8a60d80e.js",
+    "static/media/supercopa.png": "/real-madrid/static/media/supercopa.d101cda245fae581dcdb.png",
+    "static/media/uefa_super.png": "/real-madrid/static/media/uefa_super.b01554231ba3a2ce9ae8.png",
+    "static/media/uefa.png": "/real-madrid/static/media/uefa.e5dae5d8bdbdd85405cf.png",
+    "static/media/Real_Madrid.png": "/real-madrid/static/media/Real_Madrid.aa9897647dfdb18e3523.png",
+    "static/media/copa.png": "/real-madrid/static/media/copa.e816aa2a893241eed494.png",
+    "static/media/fly_emirates.png": "/real-madrid/static/media/fly_emirates.fb09426f8af8f4b0abef.png",
+    "static/media/la_liga.png": "/real-madrid/static/media/la_liga.9cd962015ca775c7af8e.png",
+    "static/media/uefa_cup.png": "/real-madrid/static/media/uefa_cup.ba7b816c715114f8bb89.png",
+    "static/media/Real_Madrid_2.png": "/real-madrid/static/media/Real_Madrid_2.afa66b6c0cfb94486015.png",
+    "static/media/adidas.png": "/real-madrid/static/media/adidas.ed9b2321637a6dc4e6e0.png",
+    "static/media/jersey_two.JPG": "/real-madrid/static/media/jersey_two.ea14aed0743a06570e6e.JPG",
+    "static/media/jersey_one.JPG": "/real-madrid/static/media/jersey_one.f0cad8170cbc7a9181c3.JPG",
+    "static/media/jersey_three.JPG": "/real-madrid/static/media/jersey_three.9b4ee486273e4ff2ae75.JPG",
+    "static/media/club_of_the_century.JPG": "/real-madrid/static/media/club_of_the_century.fcdae20f186f332487a0.JPG",
+    "index.html": "/real-madrid/index.html",
+    "main.08a7ea29.css.map": "/real-madrid/static/css/main.08a7ea29.css.map",
+    "main.8a60d80e.js.map": "/real-madrid/static/js/main.8a60d80e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08a7ea29.css",
+    "static/js/main.8a60d80e.js"
+  ]
+}
